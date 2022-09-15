@@ -23,3 +23,14 @@ Currently provided services:
 * Security consultation
  
 If you are interested, contact us through [info@composable-security.com](mailto:info@composable-security.com)
+
+## Security reviews
+
+Companies that have allowed us to speak about our work can be found here:
+
+| Client | Service| Date | Report |
+| ------ | ------ | ------ | ------ |
+| W3 CPI, Inc. | Smart contract security review | September 2022 | - |
+| [Tellor Inc.](https://tellor.io/) | Smart contract security review | August 2022 | - |
+
+Many more remain confidential.

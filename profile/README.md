@@ -24,7 +24,7 @@ Currently provided services:
  
 If you are interested, contact us through [info@composable-security.com](mailto:info@composable-security.com)
 
-## Security reviews
+## Professional collaboration
 
 Companies that have allowed us to speak about our work can be found here:
 

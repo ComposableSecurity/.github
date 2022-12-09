@@ -29,8 +29,8 @@ If you are interested, contact us through [info@composable-security.com](mailto:
 Companies that have allowed us to speak about our work can be found here:
 
 | Client | Service| Date | Report |
-| ------ | ------ | ------ | ------ |
-| [FujiDAO Labs OU](https://www.fujidao.org/) | Smart contract security review | November 2022 | - |
+| ------ | ------ | ------ | :----: |
+| [FujiDAO Labs OU](https://www.fujidao.org/) | Smart contract security review | November 2022 | [📄](../reports/2022_11_Fujidao_Labs_OU.pdf) |
 | [FujiDAO Labs OU](https://www.fujidao.org/) | Smart contract security review | October 2022 | - |
 | W3 CPI, Inc. | Smart contract security review | September 2022 | - |
 | [Tellor Inc.](https://tellor.io/) | Smart contract security review | August 2022 | - |

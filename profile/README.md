@@ -30,6 +30,7 @@ Companies that have allowed us to speak about our work can be found here:
 
 | Client | Service| Date | Report |
 | ------ | ------ | ------ | :----: |
+| [MilkyIce](https://milkyice.io/) | Smart contract security review | January 2023 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2023_01_MilkyIce.pdf) |
 | [FujiDAO Labs OU](https://www.fujidao.org/) | Smart contract security review | November 2022 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2022_11_Fujidao_Labs_OU.pdf) |
 | [FujiDAO Labs OU](https://www.fujidao.org/) | Smart contract security review | October 2022 | - |
 | W3 CPI, Inc. | Smart contract security review | September 2022 | - |

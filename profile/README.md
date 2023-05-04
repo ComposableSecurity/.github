@@ -30,6 +30,8 @@ Companies that have allowed us to speak about our work can be found here:
 
 | Client | Service| Date | Report |
 | ------ | ------ | ------ | :----: |
+| [VolMEX Finance](https://volmex.finance/) | Smart contract security review (migration process) | April 2023 | -
+| [DIVA Protocol](https://www.divaprotocol.io/) | Smart contract security review | March 2023 | -
 | [Milky Ice](https://milkyice.io/) | Smart contract security review | January 2023 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2023_01_MilkyIce.pdf) |
 | [FujiDAO Labs OU](https://www.fujidao.org/) | Smart contract security review | November 2022 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2022_11_Fujidao_Labs_OU.pdf) |
 | [FujiDAO Labs OU](https://www.fujidao.org/) | Smart contract security review | October 2022 | - |

@@ -32,8 +32,8 @@ Companies that have allowed us to speak about our work can be found here:
 | ------ | ------ | ------ | :----: |
 | [codefunded](https://codefunded.com/) | Smart contract security review | November 2023 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2023_11_Codefunded.pdf) |
 | Uniswap Foundation | Security research on UniV4 Hooks | October-December 2023 | - |
-| Research Portfolio | Custom blockchain security review | August-September 2023 | - |
-| [evojam](https://evojam.com/) | Smart contract security review | May-June 2023 | - |
+| Research Portfolio | Smart contract security review | August-September 2023 | - |
+| [evojam](https://evojam.com/) | Custom blockchain security review | May-June 2023 | - |
 | [VolMEX Finance](https://volmex.finance/) | Smart contract security review | April 2023 | - |
 | [DIVA Protocol](https://www.divaprotocol.io/) | Smart contract security review | March 2023 | - |
 | [Milky Ice](https://milkyice.io/) | Smart contract security review | January 2023 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2023_01_MilkyIce.pdf) |

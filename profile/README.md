@@ -30,6 +30,8 @@ Companies that have allowed us to speak about our work can be found here:
 
 | Client | Service| Date | Report |
 | ------ | ------ | ------ | :----: |
+| [Arcade](https://www.arcade2earn.io/) | Smart contract security review | January-February 2024 | - |
+| [Gasbot](https://www.gasbot.xyz/) | Smart contract security review | January 2024 | - |
 | [codefunded](https://codefunded.com/) | Smart contract security review | November 2023 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2023_11_Codefunded.pdf) |
 | Uniswap Foundation | Security research on UniV4 Hooks | October-December 2023 | - |
 | Research Portfolio | Smart contract security review | August-September 2023 | - |

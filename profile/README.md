@@ -30,6 +30,9 @@ Companies that have allowed us to speak about our work can be found here:
 
 | Client | Service| Date | Report |
 | ------ | ------ | ------ | :----: |
+| [Sharbi](https://www.sharbi.net/) | Smart contract security review | March 2024 | - |
+| Outline Investments | Security consultation | March 2024 | - |
+| [ChickenDAO](https://coconutchicken.com/) | Security consultation | March 2024 | - |
 | [Arcade](https://www.arcade2earn.io/) | Smart contract security review | January-February 2024 | - |
 | [Gasbot](https://www.gasbot.xyz/) | Smart contract security review | January 2024 | - |
 | [codefunded](https://codefunded.com/) | Smart contract security review | November 2023 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2023_11_Codefunded.pdf) |
@@ -39,6 +42,8 @@ Companies that have allowed us to speak about our work can be found here:
 | [VolMEX Finance](https://volmex.finance/) | Smart contract security review | April 2023 | - |
 | [DIVA Protocol](https://www.divaprotocol.io/) | Smart contract security review | March 2023 | - |
 | [Milky Ice](https://milkyice.io/) | Smart contract security review | January 2023 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2023_01_MilkyIce.pdf) |
+| Outline Investments | Security consultation | December 2022 | - |
+| Outline Investments | Security consultation | November 2022 | - |
 | [FujiDAO Labs OU](https://www.fujidao.org/) | Smart contract security review | November 2022 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2022_11_Fujidao_Labs_OU.pdf) |
 | [FujiDAO Labs OU](https://www.fujidao.org/) | Smart contract security review | October 2022 | - |
 | W3 CPI, Inc. | Smart contract security review | September 2022 | - |

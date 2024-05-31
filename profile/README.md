@@ -31,6 +31,7 @@ Companies that have allowed us to speak about our work can be found here:
 
 | Client                                                      | Service                           | Date                  |                                                Report                                                |
 | ----------------------------------------------------------- | --------------------------------- | --------------------- | :--------------------------------------------------------------------------------------------------: |
+| [ICEO](https://iceo.co/)                                         | Security consultation             | May 2024            |                                                  -                                                   |
 | FIDL: Filecoin Incentive Design Labs                           | Smart contract security review    | May 2024            |                                                  [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2024_05_FIDL_MetaAllocator.pdf)                                                   |
 | [Sharbi](https://www.sharbi.net/)                           | Smart contract security review    | March-April 2024            |                                                  -                                                   |
 | Outline Investments                                         | Security consultation             | March 2024            |                                                  -                                                   |

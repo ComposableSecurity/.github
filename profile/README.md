@@ -1,29 +1,35 @@
 # Composable Security
 
-## Our story
+![Others about our work](assets/others_about_our_work.png)
 
-We've already helped dozens of projects keep their products and systems secure, but we believe we can do even more.
+## Get to know us
+The [Composable Security 🛡️⛓️](https://twitter.com/Composable_Sec) is a small team with a holistic approach that goes beyond the code. A combination of **expertize in Solidity smart contract security** and experience gained through **6+ years securing global fintechs and Polish banks** help comprehensively take care of DApp security. Learn more [about us](https://composable-security.com/about/).
 
-Participation in conferences such as ETHcc or ETHWarsaw and numerous interactions with the community convinced us that blockchain-based projects are the future. It is not just about technology, it’s about the people who create it. Seeing how committed, open-minded and willing to educate web3 developers are, we decided to go full time and do everything we can to help them build a better, more efficient and more transparent world.
+![Auditors](assets/auditors.png)
 
-The Composable Security company was founded in August 2022 by Damian Rusinek ([@drdr_zz](https://twitter.com/drdr_zz)) and Paweł Kuryłowicz ([@wh01s7](https://twitter.com/wh01s7)) who have actively contributed to the crypto space since 2017.
+About our approach you can read here:
+https://composable-security.com/blog/how-we-do-smart-contract-audit/
 
-Starting from the creation of the Smart Contract Security Verification Standard, through numerous audits of smart contracts, to the introduction of threat modeling to DeFi. Through numerous publications, presentations, and a series of educational tweets, we tried to share the best security practices developed thanks to many years of experience in web2.
-
-Security should be adapted to each stage of development, security should be **composable** to the best suits visionary needs.
-
-That’s why we started **Composable Security**.
+## Proud of 🏆
+* **Creators of the first security standard** for smart contracts **[Smart Contract Security Verification Standard](https://github.com/ComposableSecurity/SCSVS)**.
+* Our research was supported by **Uniswap Foundation** grant.
+* Our articles are valued by projects like Morpho Blue, LayerZero.
+* **Speakers & mentors** at EthCC, ETHGlobal London, Web3 Security Conference, EthereumZurich and more.
+* Creators of the first **[Security Guide](https://composable-security.com/security-guide/)** for DApps (100+ pages of free knowledge).
+* **First place during War Room Games** Paris @ EthCC 2023 organized by Yearn, yAudit, and Tenderly.
+* In the previous company, we developed an interactive video program for developers that **trained 1,000+ developers**.
 
 ## Services
-
-Currently provided services:
-
 - Smart contract security reviews/audits
 - Threat modeling
 - Threat analysis
 - Security consultation
 
-If you are interested, contact us through [info@composable-security.com](mailto:info@composable-security.com)
+Let us help you [info@composable-security.com](mailto:info@composable-security.com)
+
+## Client reviews
+
+![Client_reviews](assets/client_reviews.png)
 
 ## Professional collaboration
 
@@ -31,25 +37,76 @@ Companies that have allowed us to speak about our work can be found here:
 
 | Client                                                      | Service                           | Date                  |                                                Report                                                |
 | ----------------------------------------------------------- | --------------------------------- | --------------------- | :--------------------------------------------------------------------------------------------------: |
-| [ICEO](https://iceo.co/)                                         | Security consultation             | May 2024            |                                                  -                                                   |
-| FIDL: Filecoin Incentive Design Labs                           | Smart contract security review    | May 2024            |                                                  [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2024_05_FIDL_MetaAllocator.pdf)                                                   |
-| [Sharbi](https://www.sharbi.net/)                           | Smart contract security review    | March-April 2024            |                                                  -                                                   |
+| [ICEO](https://iceo.co/)                                    | Security consultation             | May 2024              |                                                  -                                                   |
+| FIDL: Filecoin Incentive Design Labs                        | Smart contract security review    | May 2024              | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2024_05_FIDL_MetaAllocator.pdf) |
+| [Sharbi](https://www.sharbi.net/)                           | Smart contract security review    | March-April 2024      |                                                  -                                                   |
 | Outline Investments                                         | Security consultation             | March 2024            |                                                  -                                                   |
-| [ChickenDAO](https://coconutchicken.com/)                   | Security consultation             | March 2024            |                                                  [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2024_03_ChickenDAO_TG_bot.pdf)      |                                                   |
+| [ChickenDAO](https://coconutchicken.com/)                   | Security consultation             | March 2024            | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2024_03_ChickenDAO_TG_bot.pdf)  |
 | [Arcade](https://www.arcade2earn.io/)                       | Smart contract security review    | January-February 2024 |                                                  -                                                   |
-| [Gasbot](https://www.gasbot.xyz/)                           | Smart contract security review    | January 2024          |     [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2024_01_Gasbot_V2.pdf)      |
-| [codefunded](https://codefunded.com/)                       | Smart contract security review    | November 2023         |     [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2023_11_Codefunded.pdf)     |
+| [Gasbot](https://www.gasbot.xyz/)                           | Smart contract security review    | January 2024          | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2024_01_Gasbot_V2.pdf)          |
+| [codefunded](https://codefunded.com/)                       | Smart contract security review    | November 2023         | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2023_11_Codefunded.pdf)         |
 | Uniswap Foundation                                          | Security research on UniV4 Hooks  | October-December 2023 |                                                  -                                                   |
 | [Research Portfolio](https://researchportfolio.co/research) | Smart contract security review    | August-September 2023 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2023_09_Research_Portfolio.pdf) |
 | [evojam](https://evojam.com/)                               | Custom blockchain security review | May-June 2023         |                                                  -                                                   |
 | [VolMEX Finance](https://volmex.finance/)                   | Smart contract security review    | April 2023            |                                                  -                                                   |
-| [DIVA Protocol](https://www.divaprotocol.io/)               | Smart contract security review    | March 2023            |    [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2023_03_DIVAprotocol.pdf)    |
-| [Milky Ice](https://milkyice.io/)                           | Smart contract security review    | January 2023          |      [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2023_01_MilkyIce.pdf)      |
+| [DIVA Protocol](https://www.divaprotocol.io/)               | Smart contract security review    | March 2023            | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2023_03_DIVAprotocol.pdf)       |
+| [Milky Ice](https://milkyice.io/)                           | Smart contract security review    | January 2023          | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2023_01_MilkyIce.pdf)           |
 | Outline Investments                                         | Security consultation             | December 2022         |                                                  -                                                   |
 | Outline Investments                                         | Security consultation             | November 2022         |                                                  -                                                   |
-| [FujiDAO Labs OU](https://www.fujidao.org/)                 | Smart contract security review    | November 2022         |  [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2022_11_Fujidao_Labs_OU.pdf)   |
+| [FujiDAO Labs OU](https://www.fujidao.org/)                 | Smart contract security review    | November 2022         | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2022_11_Fujidao_Labs_OU.pdf)    |
 | [FujiDAO Labs OU](https://www.fujidao.org/)                 | Smart contract security review    | October 2022          |                                                  -                                                   |
 | W3 CPI, Inc.                                                | Smart contract security review    | September 2022        |                                                  -                                                   |
 | [Tellor Inc.](https://tellor.io/)                           | Smart contract security review    | August 2022           |                                                  -                                                   |
 
 Many more remain confidential.
+
+## Client case studies
+* [Research Portfolio](https://composable-security.com/blog/research-portfolio-case-study/) - The main objective was verification of the security of smart contracts and identification of threats occurring at the edge of integration with web2 components.
+
+## Contests
+
+When the project is interesting or we have free slot, we take part in contests.
+
+| Project                                                     |  H  | M | Place |                                               Description                                           |
+| ----------------------------------------------------------- |  -  | - | ----- |:--------------------------------------------------------------------------------------------------:|
+| [Titles](https://audits.sherlock.xyz/contests/326)         |  2  | 6 | **4th** out of 201 participants  |TITLES builds creative tools powered by artist-owned AI models. The underlying TITLES protocol enables the publishing of referential NFTs, including managing attribution and splitting payments with the creators of the attributed works.                        |
+| [Mento](https://audits.sherlock.xyz/contests/187)         |  0  | 1 | **🥇1st** out of 83 participants |Mento is a decentralized platform used to launch and operate multi-currency stable assets. Today Mento supports 4 decentralized stable assets on the Celo blockchain: cUSD (Celo Dollar), cEUR (Celo Euro), cREAL (Celo Real) and eXOF (CFA Franc), with more coming soon.                        |
+| [Tapioca](https://audits.sherlock.xyz/contests/170)         |  4  | 0 | **7th** out of 123 participants |The Omnichain Money Market & Unstoppable OmniDollar, Powered by LayerZero.                        |
+| [Rio Network](https://audits.sherlock.xyz/contests/176)     |  2  | 1 | **7th** out of 248 participants |The liquid restaking network.                                                                     |
+
+## Publications
+* [Best ways to secure your X account](https://composable-security.com/blog/best-ways-to-secure-your-x-account/)
+* [Uniswap V4: Bad hook with broken access control](https://composable-security.com/blog/uniswap-v-4-bad-hook-with-broken-access-control/)
+* [Uniswap V4: Further research to improve hooks security](https://composable-security.com/blog/uniswap-v-4-further-research-to-improve-hooks-security/)
+* [Protect your account: SIM swap hack](https://composable-security.com/blog/protect-your-account-sim-swap-hack/)
+* [Uniswap V4: Oracle hook with malicious owner](https://composable-security.com/blog/uniswap-v-4-oracle-hook-with-malicious-owner/)
+* [Uniswap V4: Liquidity Theft via Hook Fee](https://composable-security.com/blog/uniswap-v-4-liquidity-theft-via-hook-fee/)
+* [Uniswap V4: Re-Initialization Leading to Funds Locked](https://composable-security.com/blog/uniswap-v-4-re-initialization-leading-to-funds-locked/)
+* [Threats for Uniswap V4 hooks](https://composable-security.com/blog/threats-for-uniswap-v-4-hooks/)
+* [How to choose the best smart contract auditing firm?](https://composable-security.com/blog/how-to-choose-the-best-smart-contract-auditing-firm/)
+* [INSIDER! Impersonating others on GitHub](https://composable-security.com/blog/insider-impersonating-others-on-git-hub/)
+* [Secure integration with LayerZero](https://composable-security.com/blog/secure-integration-with-layer-zero/)
+* [White hack policy](https://composable-security.com/blog/white-hack-policy/)
+* [Uniswap V4 - threat modeling for secure integration](https://composable-security.com/blog/uniswap-v-4-threat-modeling-for-secure-integration/)
+* [Account Abstraction - a tale on the evolution of wallets](https://composable-security.com/blog/account-abstraction-a-tale-on-the-evolution-of-wallets/)
+* [The Role of Access Control in Solidity Smart Contracts](https://composable-security.com/blog/the-role-of-access-control-in-solidity-smart-contracts/)
+* [Understanding the Tornado Cash Governance Attack](https://composable-security.com/blog/understanding-the-tornado-cash-governance-attack/)
+* [6 security sins of Web3 bridges](https://composable-security.com/blog/6-security-sins-of-web-3-bridges/)
+* [Key threat based cross-checks](https://composable-security.com/blog/key-threat-based-cross-checks/)
+* [How we do smart contract audit](https://composable-security.com/blog/how-we-do-smart-contract-audit/)
+* [Shapella, EIP-4895, and challenges faced by staking protocols](https://composable-security.com/blog/shapella-eip-4895-and-challenges-faced-by-staking-protocols/)
+* [DeFi price oracles - all you should know about a TWAP](https://composable-security.com/blog/de-fi-price-oracles-all-you-should-know-about-a-twap/)
+* [WOW! ChatGPT-driven threat modeling for smart contracts](https://composable-security.com/blog/wow-chat-gpt-driven-threat-modeling-for-smart-contracts/)
+* [NFT Best Practices - build safe](https://composable-security.com/blog/nft-best-practices-build-safe/)
+* [Threat Modeling for Smart Contracts: Best Step-by-Step Guide](https://composable-security.com/blog/threat-modeling-for-smart-contracts-best-step-by-step-guide/)
+* [Smart contract audit - the best tips on how to be prepared better](https://composable-security.com/blog/smart-contract-audit-the-best-tips-on-how-to-be-prepared-better/)
+* [BNB Bridge hack ELI5 explained and visualised](https://composable-security.com/blog/bnb-bridge-hack-eli-5-explained-and-visualised/)
+
+## Recorded presentations
+* [ETHWarsaw 2022 - Security Panel](https://composable-security.com/blog/eth-warsaw-2022-security-panel/)
+* [ETHWarsaw MeetUp - Bridge Sins Presentation](https://composable-security.com/blog/eth-warsaw-meet-up-bridge-sins-presentation/)
+* [Secrets of Uniswap V4: A Deep Dive into Hooks Security](https://www.youtube.com/watch?v=VhEbnGSUdYY)
+
+## Public goods
+* [Smart Contract Security Verification Standard](https://github.com/ComposableSecurity/SCSVS)
+* [Security Guide](https://composable-security.com/security-guide/)

@@ -106,6 +106,7 @@ When the project is interesting or we have free slot, we take part in contests.
 * [ETHWarsaw 2022 - Security Panel](https://composable-security.com/blog/eth-warsaw-2022-security-panel/)
 * [ETHWarsaw MeetUp - Bridge Sins Presentation](https://composable-security.com/blog/eth-warsaw-meet-up-bridge-sins-presentation/)
 * [Secrets of Uniswap V4: A Deep Dive into Hooks Security](https://www.youtube.com/watch?v=VhEbnGSUdYY)
+* [Filecoin Dev Summit #4 - How to be secure by design and not pay millions?](https://www.youtube.com/watch?v=kqIfljTpS8A)
 
 ## Public goods
 * [Smart Contract Security Verification Standard](https://github.com/ComposableSecurity/SCSVS)

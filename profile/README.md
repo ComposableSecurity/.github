@@ -37,6 +37,8 @@ Companies that have allowed us to speak about our work can be found here:
 
 | Client                                                      | Service                           | Date                  |                                                Report                                                |
 | ----------------------------------------------------------- | --------------------------------- | --------------------- | :--------------------------------------------------------------------------------------------------: |
+| [Flexy](https://www.flexy.tech/)                                                       | Smart contract security review    | June 2024              | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2024_07_Flexy.pdf) |
+| Tident IT                                    | Smart contract security review    | June 2024              |                                                  -                                                   |
 | [ICEO](https://iceo.co/)                                    | Security consultation             | May 2024              |                                                  -                                                   |
 | FIDL: Filecoin Incentive Design Labs                        | Smart contract security review    | May 2024              | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2024_05_FIDL_MetaAllocator.pdf) |
 | [Sharbi](https://www.sharbi.net/)                           | Smart contract security review    | March-April 2024      |                                                  -                                                   |
@@ -61,6 +63,8 @@ Companies that have allowed us to speak about our work can be found here:
 Many more remain confidential.
 
 ## Client case studies
+* [Outline Investment](https://composable-security.com/blog/outline-investment-case-study/) - The primary goal was to develop a systematic approach for evaluating the risks associated with stablecoin pools, which Outline Investment was considering for potential investment opportunities.
+* [Gasbot V2](https://composable-security.com/blog/gasbot-v-2-case-study/) - The main objective was verification of the security of smart contracts and identification of threats occurring at the edge of integration with web2 components.
 * [Research Portfolio](https://composable-security.com/blog/research-portfolio-case-study/) - The main objective was verification of the security of smart contracts and identification of threats occurring at the edge of integration with web2 components.
 
 ## Contests

@@ -37,12 +37,14 @@ Companies that have allowed us to speak about our work can be found here:
 
 | Client                                                      | Service                           | Date                  |                                                Report                                                |
 | ----------------------------------------------------------- | --------------------------------- | --------------------- | :--------------------------------------------------------------------------------------------------: |
+| Token Invest                                                | Smart contract security review             | October 2024            | - |
+| [RedStone](https://redstone.finance/)                       | Smart contract security review and security consultation | October 2024            | - |
 | [Braintrust](https://www.usebraintrust.com/)                  | Security consultation             | August 2024            | - |
 | [ZND](https://znd.co/)                                        | Smart contract security review    | July 2024              | - |
 | [Empirica](https://empirica.io/)                              | Security consultation             | July 2024              | - |
 | [Flexy](https://www.flexy.tech/)                              | Smart contract security review    | June 2024              | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2024_07_Flexy.pdf) |
 | Tident IT                                                     | Smart contract security review    | June 2024              | - |
-| [ICEO](https://iceo.co/)                                    | Security consultation             | May 2024              |                                                  -                                                   |
+| [ICEO](https://iceo.co/)                                    | Security consultation             | May 2024              | - |
 | FIDL: Filecoin Incentive Design Labs                        | Smart contract security review    | May 2024              | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2024_05_FIDL_MetaAllocator.pdf) |
 | [Sharbi](https://www.sharbi.net/)                           | Smart contract security review    | March-April 2024      |                                                  -                                                   |
 | Outline Investments                                         | Security consultation             | March 2024            |                                                  -                                                   |

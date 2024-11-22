@@ -40,6 +40,7 @@ Companies that have allowed us to speak about our work can be found here:
 | Token Invest                                                | Smart contract security review             | October 2024            | - |
 | [RedStone](https://redstone.finance/)                       | Smart contract security review and security consultation | October 2024            | - |
 | [Braintrust](https://www.usebraintrust.com/)                  | Security consultation             | August 2024            | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2024_09_Braintrust.pdf)  |
+| [Arcade](https://www.arcade2earn.io/)                       | Smart contract security review    | July 2024 |  [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2024_07_Arcade_Mission_Pools.pdf) |
 | [ZND](https://znd.co/)                                        | Smart contract security review    | July 2024              | - |
 | [Empirica](https://empirica.io/)                              | Security consultation             | July 2024              | - |
 | [Flexy](https://www.flexy.tech/)                              | Smart contract security review    | June 2024              | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2024_07_Flexy.pdf) |
@@ -49,7 +50,7 @@ Companies that have allowed us to speak about our work can be found here:
 | [Sharbi](https://www.sharbi.net/)                           | Smart contract security review    | March-April 2024      |                                                  -                                                   |
 | Outline Investments                                         | Security consultation             | March 2024            |                                                  -                                                   |
 | [ChickenDAO](https://coconutchicken.com/)                   | Security consultation             | March 2024            | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2024_03_ChickenDAO_TG_bot.pdf)  |
-| [Arcade](https://www.arcade2earn.io/)                       | Smart contract security review    | January-February 2024 |                                                  -                                                   |
+| [Arcade](https://www.arcade2earn.io/)                       | Smart contract security review    | January-February 2024 |  [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2024_02_Arcade_Mission_Pools.pdf) |
 | [Gasbot](https://www.gasbot.xyz/)                           | Smart contract security review    | January 2024          | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2024_01_Gasbot_V2.pdf)          |
 | [codefunded](https://codefunded.com/)                       | Smart contract security review    | November 2023         | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2023_11_Codefunded.pdf)         |
 | [Uniswap Foundation](https://www.uniswapfoundation.org/)    | Security research on UniV4 Hooks  | October-December 2023 |                                                  -                                                   |

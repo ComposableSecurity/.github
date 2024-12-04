@@ -37,6 +37,7 @@ Companies that have allowed us to speak about our work can be found here:
 
 | Client                                                      | Service                           | Date                  |                                                Report                                                |
 | ----------------------------------------------------------- | --------------------------------- | --------------------- | :--------------------------------------------------------------------------------------------------: |
+| [pStake](https://pstake.finance/)                           | Smart contract security review             | November 2024            | - |
 | Token Invest                                                | Smart contract security review             | October 2024            | - |
 | [RedStone](https://redstone.finance/)                       | Smart contract security review and security consultation | October 2024            | - |
 | [Braintrust](https://www.usebraintrust.com/)                  | Security consultation             | August 2024            | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2024_09_Braintrust.pdf)  |

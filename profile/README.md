@@ -39,6 +39,7 @@ Companies that have allowed us to speak about our work can be found here:
 | ----------------------------------------------------------- | --------------------------------- | --------------------- | :--------------------------------------------------------------------------------------------------: |
 | [YieldNest](https://www.yieldnest.finance/)                       | Smart contract security review    | December 2024 | - |
 | [Arcade](https://www.arcade2earn.io/)                       | Smart contract security review    | December 2024 | - |
+| [Bitquity](https://www.bitquity.org/)                       | Smart contract security review    | December 2024 | - |
 | [pStake](https://pstake.finance/)                           | Smart contract security review             | November 2024            | - |
 | Token Invest                                                | Smart contract security review             | October 2024            | - |
 | [RedStone](https://redstone.finance/)                       | Smart contract security review and security consultation | October 2024            | - |

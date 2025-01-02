@@ -37,7 +37,8 @@ Companies that have allowed us to speak about our work can be found here:
 
 | Client                                                      | Service                           | Date                  |                                                Report                                                |
 | ----------------------------------------------------------- | --------------------------------- | --------------------- | :--------------------------------------------------------------------------------------------------: |
-| [YieldNest](https://www.yieldnest.finance/)                       | Smart contract security review    | December 2024 | - |
+| [Tellor](https://tellor.io/)                                | Smart contract security review    | January 2025 | - |
+| [YieldNest](https://www.yieldnest.finance/)                 | Smart contract security review    | December 2024 | - |
 | [Arcade](https://www.arcade2earn.io/)                       | Smart contract security review    | December 2024 | - |
 | [Bitquity](https://www.bitquity.org/)                       | Smart contract security review    | December 2024 | - |
 | [pStake](https://pstake.finance/)                           | Smart contract security review             | November 2024            | - |

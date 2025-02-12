@@ -37,7 +37,9 @@ Companies that have allowed us to speak about our work can be found here:
 
 | Client                                                      | Service                           | Date                  |                                                Report                                                |
 | ----------------------------------------------------------- | --------------------------------- | --------------------- | :--------------------------------------------------------------------------------------------------: |
-| [Arbiter Finance](https://arbiter.finance/)                                | Smart contract security review    | January 2025 | - |
+| [Lido](https://lido.fi/)                                    | Security consultation & review    | February 2025 | - |
+| [Othentic](https://www.othentic.xyz/)                       | Smart contract security review    | February 2025 | - |
+| [Arbiter Finance](https://arbiter.finance/)                 | Smart contract security review    | January 2025 | - |
 | [Tellor](https://tellor.io/)                                | Smart contract security review    | January 2025 | - |
 | [YieldNest](https://www.yieldnest.finance/)                 | Smart contract security review    | December 2024 | - |
 | [Arcade](https://www.arcade2earn.io/)                       | Smart contract security review    | December 2024 | - |

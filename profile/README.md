@@ -42,7 +42,7 @@ Companies that have allowed us to speak about our work can be found here:
 | [Othentic](https://www.othentic.xyz/)                       | Smart contract security review    | February 2025 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2025_02_Othentic_RewardsV2.pdf) |
 | [Arbiter Finance](https://arbiter.finance/)                 | Smart contract security review    | January 2025 | - |
 | [Tellor](https://tellor.io/)                                | Smart contract security review    | January 2025 | - |
-| [YieldNest](https://www.yieldnest.finance/)                 | Smart contract security review    | December 2024 | - |
+| [YieldNest](https://www.yieldnest.finance/)                 | Smart contract security review    | December 2024 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2024_12_YieldNest_Integration_with_Kernel.pdf) |
 | [Arcade](https://www.arcade2earn.io/)                       | Smart contract security review    | December 2024 | - |
 | [Bitquity](https://www.bitquity.org/)                       | Smart contract security review    | December 2024 | - |
 | [pStake](https://pstake.finance/)                           | Smart contract security review             | November 2024            | - |

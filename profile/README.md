@@ -38,7 +38,7 @@ Companies that have allowed us to speak about our work can be found here:
 | Client                                                      | Service                           | Date                  |                                                Report                                                |
 | ----------------------------------------------------------- | --------------------------------- | --------------------- | :--------------------------------------------------------------------------------------------------: |
 | [Constellation Network](https://constellationnetwork.io/)   | Security consultation & review    | March-April 2025 | - |
-| [Lido](https://lido.fi/)                                    | Security consultation & review    | February-March 2025 | - | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2025_02_Lido_Oracle_V5.pdf) |
+| [Lido](https://lido.fi/)                                    | Security consultation & review    | February-March 2025 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2025_02_Lido_Oracle_V5.pdf) |
 | [Othentic](https://www.othentic.xyz/)                       | Smart contract security review    | February 2025 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2025_02_Othentic_RewardsV2.pdf) |
 | [Arbiter Finance](https://arbiter.finance/)                 | Smart contract security review    | January 2025 | - |
 | [Tellor](https://tellor.io/)                                | Smart contract security review    | January 2025 | - |

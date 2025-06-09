@@ -37,7 +37,7 @@ Companies that have allowed us to speak about our work can be found here:
 
 | Client                                                      | Service                           | Date                  |                                                Report                                                |
 | ----------------------------------------------------------- | --------------------------------- | --------------------- | :--------------------------------------------------------------------------------------------------: |
-| [Lido](https://lido.fi/)                                    | Security consultation & review    | June 2025 | [-]
+| [Lido](https://lido.fi/)                                    | Security consultation & review    | June 2025 | - |
 | Shroomy                                                     | Smart contract security review    | May 2025 | - |
 | [Constellation Network](https://constellationnetwork.io/)   | Security consultation & review    | March-April 2025 | - |
 | [Lido](https://lido.fi/)                                    | Security consultation & review    | February-March 2025 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2025_02_Lido_Oracle_V5.pdf) |

@@ -37,7 +37,7 @@ Companies that have allowed us to speak about our work can be found here:
 
 | Client                                                      | Service                           | Date                  |                                                Report                                                |
 | ----------------------------------------------------------- | --------------------------------- | --------------------- | :--------------------------------------------------------------------------------------------------: |
-| [Golem Network](https://www.golem.network/)                 | Smart contract security review    | October 2025 | - |
+| [Arkiv Network](https://arkiv.network/)                 | Smart contract security review    | October 2025 | - |
 | [Lido](https://lido.fi/)                                    | Security consultation & review    | October 2025 | - |
 | [Neverland](https://neverland.money/)                       | Smart contract security review    | September 2025 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/202509_Neverland_SelfRepay.pdf) |
 | [Othentic](https://www.othentic.xyz/)                       | Smart contract security review    | September 2025 | - |

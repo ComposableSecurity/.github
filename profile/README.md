@@ -38,6 +38,7 @@ Companies that have allowed us to speak about our work can be found here:
 | Client                                                      | Service                           | Date                  |                                                Report                                                |
 | ----------------------------------------------------------- | --------------------------------- | --------------------- | :--------------------------------------------------------------------------------------------------: |
 | [Filecoin](https://filecoin.io/)                            | Smart contract security review    | January - February 2026 | - |
+| [BB Trade](https://zondacrypto.com/)                        | Smart contract security review    | January 2026 | - |
 | [Neverland](https://neverland.money/)                       | Smart contract security review    | December 2025 - January 2026 | - |
 | [Arkiv Network](https://arkiv.network/)                     | Smart contract security review    | October 2025 | - |
 | [Lido](https://lido.fi/)                                    | Security consultation & review    | October 2025 | - |

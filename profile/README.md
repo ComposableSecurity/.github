@@ -37,6 +37,7 @@ Companies that have allowed us to speak about our work can be found here:
 
 | Client                                                      | Service                           | Date                  |                                                Report                                                |
 | ----------------------------------------------------------- | --------------------------------- | --------------------- | :--------------------------------------------------------------------------------------------------: |
+| [Tellor](https://tellor.io/)                                | Smart contract security review    | March 2026 | - |
 | [Filecoin](https://filecoin.io/)                            | Smart contract security review    | January - February 2026 | - |
 | [BB Trade](https://zondacrypto.com/)                        | Smart contract security review    | January 2026 | - |
 | [Neverland](https://neverland.money/)                       | Smart contract security review    | December 2025 - January 2026 | - |

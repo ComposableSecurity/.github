@@ -37,6 +37,7 @@ Companies that have allowed us to speak about our work can be found here:
 
 | Client                                                      | Service                           | Date                  |                                                Report                                                |
 | ----------------------------------------------------------- | --------------------------------- | --------------------- | :--------------------------------------------------------------------------------------------------: |
+| [Lido](https://lido.fi/)                                    | Security consultation & review    | March 2025 - May 2026 | - |
 | [Tellor](https://tellor.io/)                                | Smart contract security review    | March 2026 | - |
 | [Filecoin](https://filecoin.io/)                            | Smart contract security review    | January - February 2026 | - |
 | [BB Trade](https://zondacrypto.com/)                        | Smart contract security review    | January 2026 | - |

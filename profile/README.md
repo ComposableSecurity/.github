@@ -39,16 +39,20 @@ Companies that have allowed us to speak about our work can be found here:
 | ----------------------------------------------------------- | --------------------------------- | --------------------- | :--------------------------------------------------------------------------------------------------: |
 | [Lido](https://lido.fi/)                                    | Security consultation & review    | March 2025 - May 2026 | - |
 | [Tellor](https://tellor.io/)                                | Smart contract security review    | March 2026 | - |
+| [Lido](https://lido.fi/)                                    | Security consultation & review    | February 2026 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2026_02_Lido_Oracle_V7_1.pdf) |
 | [Filecoin](https://filecoin.io/)                            | Smart contract security review    | January - February 2026 | - |
 | [BB Trade](https://zondacrypto.com/)                        | Smart contract security review    | January 2026 | - |
 | [Neverland](https://neverland.money/)                       | Smart contract security review    | December 2025 - January 2026 | - |
 | [Arkiv Network](https://arkiv.network/)                     | Smart contract security review    | October 2025 | - |
-| [Lido](https://lido.fi/)                                    | Security consultation & review    | October 2025 | - |
+| [Lido](https://lido.fi/)                                    | Security consultation & review    | September - October 2025 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2025_09_Lido_Oracle_V7_second.pdf) |
+| [Lido](https://lido.fi/)                                    | Security consultation & review    | September 2025 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2025_09_Lido_Oracle_V6_0_2.pdf) |
 | [Neverland](https://neverland.money/)                       | Smart contract security review    | September 2025 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/202509_Neverland_SelfRepay.pdf) |
 | [Othentic](https://www.othentic.xyz/)                       | Smart contract security review    | September 2025 | - |
+| [Lido](https://lido.fi/)                                    | Security consultation & review    | August 2025 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2025_08_Lido_Oracle_V5_4_1.pdf) |
 | [Neverland](https://neverland.money/)                       | Smart contract security review    | July - August 2025 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2025_08_Neverland.pdf) | |
-| [Lido](https://lido.fi/)                                    | Security consultation & review    | July - August 2025 | - |
-| [Lido](https://lido.fi/)                                    | Security consultation & review    | June 2025 | - |
+| [Lido](https://lido.fi/)                                    | Security consultation & review    | July - August 2025 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2025_07_Lido_Oracle_V7.pdf) |
+| [Lido](https://lido.fi/)                                    | Security consultation & review    | June - July 2025 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2025_06_Lido_Oracle_V6.pdf) |
+| [Lido](https://lido.fi/)                                    | Security consultation & review    | June 2025 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2025_06_Lido_Oracle_V5_2.pdf) |
 | [Shroomy](https://www.shroomy.io/)                          | Smart contract security review    | May 2025 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2025_05_Shroomy_Staking.pdf) |
 | [Constellation Network](https://constellationnetwork.io/)   | Security consultation & review    | March-April 2025 | - |
 | [Lido](https://lido.fi/)                                    | Security consultation & review    | February-March 2025 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2025_02_Lido_Oracle_V5.pdf) |

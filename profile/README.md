@@ -37,7 +37,8 @@ Companies that have allowed us to speak about our work can be found here:
 
 | Client                                                      | Service                           | Date                  |                                                Report                                                |
 | ----------------------------------------------------------- | --------------------------------- | --------------------- | :--------------------------------------------------------------------------------------------------: |
-| [Lido](https://lido.fi/)                                    | Security consultation & review    | March 2025 - May 2026 | - |
+| FIDL: Filecoin Incentive Design Labs                        | Smart contract security review    | July 2026              | - |
+| [Lido](https://lido.fi/)                                    | Security consultation & review    | March 2025 - May 2026 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2026_05_Lido_Oracle_V8.pdf) |
 | [Tellor](https://tellor.io/)                                | Smart contract security review    | March 2026 | - |
 | [Lido](https://lido.fi/)                                    | Security consultation & review    | February 2026 | [📄](https://github.com/ComposableSecurity/.github/blob/main/reports/2026_02_Lido_Oracle_V7_1.pdf) |
 | [Filecoin](https://filecoin.io/)                            | Smart contract security review    | January - February 2026 | - |

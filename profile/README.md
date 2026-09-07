@@ -115,7 +115,7 @@ When the project is interesting or we have free slot, we take part in contests.
 
 ## Publications
 * [Best ways to secure your X account](https://composable-security.com/blog/best-ways-to-secure-your-x-account/)
-* [Uniswap V4: Bad hook with broken access control](https://composable-security.com/blog/uniswap-v-4-bad-hook-with-broken-access-control/)
+* [Uniswap V4: Bad hook with broken access control](https://composable-security.com/blog/uniswapv4-bad-hook-with-broken-access-control/)
 * [Uniswap V4: Further research to improve hooks security](https://composable-security.com/blog/uniswap-v-4-further-research-to-improve-hooks-security/)
 * [Protect your account: SIM swap hack](https://composable-security.com/blog/protect-your-account-sim-swap-hack/)
 * [Uniswap V4: Oracle hook with malicious owner](https://composable-security.com/blog/uniswap-v-4-oracle-hook-with-malicious-owner/)

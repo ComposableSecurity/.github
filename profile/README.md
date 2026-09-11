@@ -37,7 +37,9 @@ Companies that have allowed us to speak about our work can be found here:
 
 | Client                                                      | Service                           | Date                  |                                                Report                                                |
 | ----------------------------------------------------------- | --------------------------------- | --------------------- | :--------------------------------------------------------------------------------------------------: |
+| [Rain](https://www.rain.one/)                               | Smart contract security review    | September 2026            | - |
 | [Lido](https://lido.fi/)                                    | Security consultation & review    | September 2026            | - |
+| [Rain](https://www.rain.one/)                               | Smart contract security review    | August 2026            | - |
 | [Mistral AI](https://mistral.ai/)                           | Security consultation & review    | August 2026            | - |
 | [Lido](https://lido.fi/)                                    | Smart contract security review    | August 2026            | - |
 | [Prime Delta](https://primedelta.io/)                       | Smart contract security review    | July 2026              | - |
